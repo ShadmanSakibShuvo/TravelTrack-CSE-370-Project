@@ -1,4 +1,4 @@
-<!--done-->
+
 <?php 
 require_once("includes/config.php");
 if(!empty($_POST["emailid"])) {

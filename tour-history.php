@@ -1,4 +1,4 @@
-<!--shokale dekho sathe admin all-->
+
 <?php
 session_start();
 error_reporting(0);

@@ -1,4 +1,4 @@
-<!--done-->
+
 <div class="sidebar-menu">
 					<header class="logo1">
 						<a href="#" class="sidebar-icon"> <span class="fa fa-bars"></span> </a> 
